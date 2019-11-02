@@ -11,9 +11,9 @@ title                    : "Dilip Krishnamurthy"
 title_separator          : "-"
 name                     : &name "Dilip Krishnamurthy"
 description              : &description "Ph.D. candidate at Carnegie Mellon University"
-url                      : https://dilipkrishnamurthy.github.io/dilip.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dilipkrishnamurthy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dilip.github.io"
+repository               : "dilipkrishamurthy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dilip Krishnamurthy"
   avatar           : "profile.png"
-  bio		           : "Ph.D. candidate at Carnegie Mellon University"
+  bio		   : "Ph.D. candidate at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=eom3zBwAAAAJ&hl=en"
@@ -98,7 +98,7 @@ author:
   linkedin         : "https://www.linkedin.com/in/dilip-krishnamurthy/"
   orcid            : "https://orcid.org/0000-0001-8231-5492"
   pinterest        :
-  ravelry          : #https://www.ravelry.com/projects/FiberFiend6891
+  ravelry          : #"https://www.ravelry.com/projects/FiberFiend6891"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   strava           : 
   twitter          : "Dilip_Krishnam"
