@@ -12,7 +12,7 @@ author_profile: true
   <li>
     <b>Engineering Three-Dimensional (3D) Out-of-Plane Graphene Edge Sites for Highly-Selective Two-Electron Oxygen Reduction Electrocatalysis.</b>
     <br> arXiv:1904.04946 
-    <br>D.S. Roman<sup>&#8224</sup>, D. Krishnamurthy<sup>&#8224</sup>, R. Garg, H. Hafiz, N. Nuhfer, V. Viswanathan, and T. Cohen-Karni
+    <br>D.S. Roman<sup>&dagger</sup>, D. Krishnamurthy<sup>&#8224</sup>, R. Garg, H. Hafiz, N. Nuhfer, V. Viswanathan, and T. Cohen-Karni
     <br>[<a href="https://arxiv.org/abs/1904.04946">link</a>]</li>
       <br>
   
