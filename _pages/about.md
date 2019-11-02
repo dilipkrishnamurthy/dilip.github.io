@@ -32,7 +32,7 @@ Mailing Address: Dilip Krishnamurthy
 
 Research Interests
 ------------------
-* Physics-aware Machine Learning for Accelerating Energy Materials Discovery
+* Physics-Aware Machine Learning for Accelerating Energy Materials Discovery
 * Material Design for Enabling Next Generation Battery Chemistries
 * Computational Design of Electrocatalysts
 * Geometric Descriptors for Activity and Stability of Catalyst Materials
