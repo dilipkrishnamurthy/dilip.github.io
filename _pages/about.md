@@ -24,11 +24,11 @@ Please check out ways to reach me as well as my various other homes on the web i
 
 Office: 3404 Wean Hall
 
-Mailing Address: Dilip Krishnamurthy
-                 Department of Mechanical Engineering
-                 Carnegie Mellon University
-                 5000 Forbes Ave.
-                 Pittsburgh, PA 15213
+Mailing Address: Dilip Krishnamurthy<br/>
+                 Department of Mechanical Engineering<br/>
+                 Carnegie Mellon University<br/>
+                 5000 Forbes Ave.<br/>
+                 Pittsburgh, PA 15213<br/>
                  United States
 
 Research Interests
