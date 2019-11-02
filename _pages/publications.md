@@ -81,7 +81,6 @@ author_profile: true
     <br>D. Krishnamurthy, H. A. Hansen, and V. Viswanathan.<br>
     [<a href="http://pubs.acs.org/doi/full/10.1021/acsenergylett.6b00102">link</a>]</li>
 <br>
-<br>
 (<sup>&dagger;</sup>equal contribution)
 </ul>
 
