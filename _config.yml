@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachel C. Kurchin"
+title                    : "Dilip Krishnamurthy"
 title_separator          : "-"
-name                     : &name "Rachel C. Kurchin"
+name                     : &name "Dilip Krishnamurthy"
 description              : &description "Postdoctoral fellow at Carnegie Mellon"
 url                      : https://rkurchin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
