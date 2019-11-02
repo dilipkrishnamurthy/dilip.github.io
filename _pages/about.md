@@ -22,7 +22,23 @@ Since my time as an undergrad in physics at Yale, I've also been devoted to the 
 Please check out ways to reach me as well as my various other homes on the web in the menu (either to the left or above, depending on your screen resolution) and click the links at the top of the page to check out some of my other experience and work! You can download my CV [here](/files/CV_DilipKrishnamurthy_CMU.pdf).
 -->
 
+Office: 3404 Wean Hall
+Mailing Address: Dilip Krishnamurthy
+                 Department of Mechanical Engineering
+                 Carnegie Mellon University
+                 5000 Forbes Ave.
+                 Pittsburgh, PA 15213
+                 United States
+
+Research Interests
+------------------
+* Physics-aware Machine Learning for Accelerating Energy Materials Discovery
+* Material Design for Enabling Next Generation Battery Chemistries
+* Computational Design of Electrocatalysts
+* Geometric Descriptors for Activity and Stability of Catalyst Materials
+* Uncertainty Quantification in Density Functional Theory Calculated Properties
+
 About this site
-===============
+---------------
 
 This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages. [GitHub Pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
