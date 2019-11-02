@@ -12,14 +12,14 @@ author_profile: true
   <li>
     <b>Engineering Three-Dimensional (3D) Out-of-Plane Graphene Edge Sites for Highly-Selective Two-Electron Oxygen Reduction Electrocatalysis.</b>
     <br> arXiv:1904.04946 
-    <br>D.S. Roman<sup>&dagger;</sup>, D. Krishnamurthy<sup>&#8224</sup>, R. Garg, H. Hafiz, N. Nuhfer, V. Viswanathan, and T. Cohen-Karni
+    <br>D.S. Roman<sup>&dagger;</sup>, D. Krishnamurthy<sup>&dagger;</sup>, R. Garg, H. Hafiz, N. Nuhfer, V. Viswanathan, and T. Cohen-Karni
     <br>[<a href="https://arxiv.org/abs/1904.04946">link</a>]</li>
       <br>
   
   <li>
     <b>The Role of Uncertainty Quantification and Propagation in Accelerating the Discovery of Electrochemical Functional Materials.</b>
     <br> MRS Bull. 44, 204 (2019).
-    <br>G. Houchins<sup>&#8224</sup>, D. Krishnamurthy<sup>&#8224</sup>, and V. Viswanathan
+    <br>G. Houchins<sup>&dagger</sup>, D. Krishnamurthy<sup>&dagger</sup>, and V. Viswanathan
     <br>[<a href="https://doi.org/10.1557/mrs.2019.45">link</a>]</li>
     <br>
   
@@ -53,13 +53,14 @@ author_profile: true
   <li>
     <b>Exploring MXenes as Cathodes for Non Aqueous Lithium Oxygen Batteries: Design Rules for Selectively Nucleating Li<sub>2</sub>O<sub>2</sub>.</b>
     <br>ChemSusChem 11, 1911 (2018).
-    <br>A. Lee<sup>&#8224</sup>, D. Krishnamurthy<sup>&#8224</sup>, and V. Viswanathan.(<sup>&#8224</sup>equal contribution)
+    <br>A. Lee<sup>&dagger</sup>, D. Krishnamurthy<sup>&dagger</sup>, and V. Viswanathan.
     <br>[<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cssc.201801224">link</a>]</li>
   <br>
     <li>
 <b>Maximal predictability approach for identifying the right descriptors for electrocatalytic reactions.</b>
     <br>J. Phys. Chem. Lett. 9, 588 (2018).
-    <br>D. Krishnamurthy<sup>&#8224</sup>, V. Sumaria<sup>&#8224</sup>, and V. Viswanathan. (<sup>&#8224</sup>equal contribution)<br>
+    <br>D. Krishnamurthy<sup>&dagger</sup>, V. Sumaria<sup>&dagger</sup>, and V. Viswanathan. 
+<br>
     [<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b02895">journal link</a>]&nbsp;&nbsp;&nbsp;&nbsp;[<a href="https://arxiv.org/abs/1709.02875">arXiv link</a>]&nbsp;&nbsp;&nbsp;&nbsp;</li>
 <br>
   <li>
@@ -71,7 +72,7 @@ author_profile: true
   <li>
 <b>Surface Restructuring of Nickel Sulfide Generates Optimally Coordinated Active Sites for Oxygen Reduction Catalysis.</b>
     <br>Joule 1, 600 (2017).
-    <br>B. Yan<sup>&#8224</sup>, D. Krishnamurthy<sup>&#8224</sup>, C. H. Hendon, S. Deshpande, Y. Surendranath, and V. Viswanathan. (<sup>&#8224</sup>equal contribution)<br>
+    <br>B. Yan<sup>&dagger</sup>, D. Krishnamurthy<sup>&dagger</sup>, C. H. Hendon, S. Deshpande, Y. Surendranath, and V. Viswanathan. <br>
     [<a href="https://doi.org/10.1016/j.joule.2017.08.020">journal link</a>]&nbsp;&nbsp;&nbsp;&nbsp;[<a href="https://arxiv.org/abs/1706.04090">arXiv link</a>]&nbsp;&nbsp;&nbsp;&nbsp;[<a href="https://doi.org/10.1016/j.joule.2017.10.003">article highlight</a>]</li>
     <br>
   <li>
@@ -80,6 +81,8 @@ author_profile: true
     <br>D. Krishnamurthy, H. A. Hansen, and V. Viswanathan.<br>
     [<a href="http://pubs.acs.org/doi/full/10.1021/acsenergylett.6b00102">link</a>]</li>
 <br>
+<br>
+(<sup>&dagger</sup>equal contribution)
    <li>
     <b>LITHIUM METAL ELECTRODES AND BATTERIES THEREOF.</b>
     <br>U.S. Patent Application 15/480, 235 (2017).
@@ -90,9 +93,3 @@ author_profile: true
 Note: The material on this website is intended for the private use of individual scholars. It is not for commercial use or for financial gain. Some of the material is protected by copyright. Requests for permission to make public use of any of the papers, or the material therein, should be sought from the copyright holder/original publisher, or from the authors, as appropriate.
 <hr>
 
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
