@@ -10,6 +10,6 @@ author_profile: true
     <br>U.S. Patent 20170288281, WO Patent 2017176936, October 5, 2017.
     <br>Y-M Chiang, V. Viswanathan, L. Li, V. Pande, D. Krishnamurthy, Z. Ahmad, and W. H. Woodford.
     <br>[<a href="http://www.freepatentsonline.com/y2017/0288281.html">FPO link</a>]
-    <br>Licensed by 24M Technologies Inc.
+    <br><b>Licensed by 24M Technologies Inc.</b> 
     </li>
    </ul>
