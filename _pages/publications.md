@@ -83,11 +83,6 @@ author_profile: true
 <br>
 <br>
 (<sup>&dagger;</sup>equal contribution)
-   <li>
-    <b>LITHIUM METAL ELECTRODES AND BATTERIES THEREOF.</b>
-    <br>U.S. Patent Application 15/480, 235 (2017).
-    <br>Y-M Chiang, V. Viswanathan, L. Li, V. Pande, D. Krishnamurthy, Z. Ahmad, and W. H. Woodford.
-    <br>[<a href="http://www.freepatentsonline.com/y2017/0288281.html">FPO link</a>]</li>
 </ul>
 
 Note: The material on this website is intended for the private use of individual scholars. It is not for commercial use or for financial gain. Some of the material is protected by copyright. Requests for permission to make public use of any of the papers, or the material therein, should be sought from the copyright holder/original publisher, or from the authors, as appropriate.
