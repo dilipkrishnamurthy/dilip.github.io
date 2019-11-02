@@ -27,11 +27,11 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Press"
-    url: /press/
+  #- title: "Press"
+  #  url: /press/
 
-  - title: "Tools"
-    url: /tools/
+  #- title: "Tools"
+  #  url: /tools/
 
-  - title: "Fun"
-    url: /fun/
+  #- title: "Fun"
+  #  url: /fun/
