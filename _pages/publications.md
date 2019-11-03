@@ -52,7 +52,7 @@ author_profile: true
             <br \>
   <li>
 <b>Maximal predictability approach for identifying the right descriptors for electrocatalytic reactions.</b> (joint lead author)
-    <br>Published in <i>Journal of Physical Chemistry Letters</i> (2018).[<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b02895">link</a>]</li>
+    <br>Published in <i>Journal of Physical Chemistry Letters</i> (2018).[<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b02895">link</a>]
 <br> I put forth prediction effiency, a novel metric that quantifies the ability of a descriptor to robustly predict the activity. 
     <br \>
             <br \>
