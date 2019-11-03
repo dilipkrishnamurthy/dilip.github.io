@@ -75,8 +75,9 @@ author_profile: true
   <br> I identified promising transition-metal cathode candidates that can facilitate rechargeable chemistry.
   </li>
 <br>
-(<sup>&dagger;</sup>equal contribution)
 </ul>
+(<sup>&dagger;</sup>equal contribution)
+
 
 Note: The material on this website is intended for the private use of individual scholars. It is not for commercial use or for financial gain. Some of the material is protected by copyright. Requests for permission to make public use of any of the papers, or the material therein, should be sought from the copyright holder/original publisher, or from the authors, as appropriate.
 <hr>
