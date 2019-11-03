@@ -13,13 +13,14 @@ author_profile: true
     <b>Engineering Three-Dimensional (3D) Out-of-Plane Graphene Edge Sites for Highly-Selective Two-Electron Oxygen Reduction Electrocatalysis.</b> (joint lead author) [<a href="https://arxiv.org/abs/1904.04946">arXiv link</a>]
    <br> I identified the potential active sites using DFT calculations and developed a highly-interpretable geometric descriptor for predicting activity on C-based materials. 
       <br \>
+  <br \>
   <li>
     <b>The Role of Uncertainty Quantification and Propagation in Accelerating the Discovery of Electrochemical Functional Materials.</b> (joint lead author)
     <br> Published in <i>MRS Bulletin</i> (2019).[<a href="https://doi.org/10.1557/mrs.2019.45">link</a>]
     <br> I provided an overview of my work on descriptor selection rules for robust activity and selectivity predictions. 
             <br \>
+        <br \>
   <li>
-
   <b>Quantifying Robustness of DFT Predicted Pathways and Activity Determining Elementary Steps for Electrochemical Reactions.</b>
   <br>Published in <i>Journal of Chemical Physics</i> (2019).[<a href="https://doi.org/10.1063/1.5056167">link</a>]
   <br> Put forth classification efficiency, a novel metric that quantifies the ability of a descriptor to robustly identify the underlying reaction mechanism (and the associated limiting step).
