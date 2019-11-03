@@ -56,7 +56,7 @@ author_profile: true
     <br>
   <li>
     <b>Universality in Nonaqueous Alkali Oxygen reduction on Metal Surfaces: Implications for Li-O<sub>2</sub> and Na-O<sub>2</sub> Batteries.</b> (lead author)
-    <br>Published in ACS Energy Letters (2016).  [<a href="http://pubs.acs.org/doi/full/10.1021/acsenergylett.6b00102">link</a>]
+    <br>Published in <i>ACS Energy Letters</i> (2016).  [<a href="http://pubs.acs.org/doi/full/10.1021/acsenergylett.6b00102">link</a>]
   </li>
 <br>
 (<sup>&dagger;</sup>equal contribution)
