@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a Ph.D. candidate in Mechanical Engineering at Carnegie Mellon University (CMU) advised by [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html). My research interests include computational material design and electrocatalysis in the context of next-generation energy storage and conversion devices. Prior to CMU, I graduated from IIT-Madras in 2015 with a B.Tech. degree in Mechanical Engineering and an M. Tech. degree in Automotive Engineering. A more detailed account can be found in my CV [here](/files/CV_DilipKrishnamurthy_CMU.pdf). 
+I am a Ph.D. candidate in Mechanical Engineering at Carnegie Mellon University (CMU) advised by [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html). My research interests include computational material design and electrocatalysis in the context of next-generation energy storage and conversion devices. Prior to CMU, I graduated from IIT-Madras in 2015 with a B.Tech. degree in Mechanical Engineering and an M. Tech. degree in Automotive Engineering. A more detailed account can be found in my CV [here](/files/CV_DIlipKrishnamurthy_CMU.pdf). 
 
 <!--
 I'm a computational materials scientist (with significant previous experimental experience), currently a Manufacturing Futures Initiative Postdoctoral Fellow working in the group of [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html) on optimization of battery materials. 
