@@ -11,7 +11,7 @@ author_profile: true
 
   <li>
     <b>Engineering Three-Dimensional (3D) Out-of-Plane Graphene Edge Sites for Highly-Selective Two-Electron Oxygen Reduction Electrocatalysis.</b> (joint lead author)
-   <br> Published in <i>ACS Catal.</i> (2020).[<a href="https://pubs-acs-org.proxy.library.cmu.edu/doi/10.1021/acscatal.9b03919">link</a>]
+   <br> Published in <i>ACS Catalysis</i> (2020).[<a href="https://pubs-acs-org.proxy.library.cmu.edu/doi/10.1021/acscatal.9b03919">link</a>]
    <br> I identified the potential active sites using DFT calculations and developed a highly-interpretable geometric descriptor for predicting activity on C-based materials. 
       <br />
   <br />
