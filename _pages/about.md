@@ -34,17 +34,14 @@ Mailing Address: Dilip Krishnamurthy<br/>
 
 Research Interests
 ------------------
-* Computational material development 
-* Next-generation batteries and fuel cells
-* Electrochemical synthesis of chemicals and fuels
+* Computational Material Design for Next-Generation Batteries and Fuel Cells
 * Physics-aware machine learning and data-driven material discovery
-* Power generation systems to enable electric aviation
-* Material Design for Enabling Next Generation Battery Chemistries
-* Computational Design of Electrocatalysts
-* Geometric Descriptors for Activity and Stability of Catalyst Materials
-* Uncertainty Quantification in Density Functional Theory Calculated Properties
+* Electrochemical Synthesis of Chemicals and Fuels
+* Electrocatalysis and Geometric Descriptors for Activity and Stability
+* Power Generation Systems Design Electric Aviation
+* Uncertainty Quantification in First Principles Computation
 
-Follow my research group's work Ph.D. Advisor: [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html). A more detailed account can be found in my CV [here](/files/CV_DIlipKrishnamurthy_CMU.pdf). 
+Follow my Ph.D. Advisor, [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html) and our group's [work](https://scholar.google.com/citations?user=4g7P1w4AAAAJ&hl=en). 
 <!--
 About this site
 ---------------
