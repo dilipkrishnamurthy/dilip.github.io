@@ -10,7 +10,6 @@ redirect_from:
 
 
 Dilip Krishnamurthy, Ph.D. candidate, Carnegie Mellon University (CMU)
-----------------------------------------------------------------------
 
 <!--
 I am a Ph.D. candidate in Mechanical Engineering at Carnegie Mellon University (CMU) advised by [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html). My research interests include computational material design and electrocatalysis in the context of next-generation energy storage and conversion devices. Prior to CMU, I graduated from IIT-Madras in 2015 with a B.Tech. degree in Mechanical Engineering and an M. Tech. degree in Automotive Engineering. A more detailed account can be found in my CV [here](/files/CV_DIlipKrishnamurthy_CMU.pdf). 
@@ -40,7 +39,7 @@ Research Interests
 * Power Generation Systems Design Electric Aviation
 * Uncertainty Quantification in First Principles Computation
 
-Follow my Ph.D. Advisor, [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html) and our group's [work](https://scholar.google.com/citations?user=4g7P1w4AAAAJ&hl=en). A more detailed account can be found in my [CV](/files/CV_DilipKrishnamurthy_CMU.pdf).
+Follow my Ph.D. Advisor, [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html), and my group's [work](https://scholar.google.com/citations?user=4g7P1w4AAAAJ&hl=en). A more detailed account can be found in my [CV](/files/CV_DilipKrishnamurthy_CMU.pdf).
 <!--
 About this site
 ---------------
