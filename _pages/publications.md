@@ -8,6 +8,14 @@ author_profile: true
   You can also find my articles on my Google Scholar <a href="https://scholar.google.com/citations?user=eom3zBwAAAAJ&hl=en"> profile</a>.
   
 <ul>
+    
+  <li>
+    <b>  Engineering Solid Electrolyte Interphase Composition by Assessing Decomposition Pathways of Fluorinated Organic Solvents in Lithium Metal Batteries.</b> 
+   <br> Accepted in <i>Journal of The Electrochemical Society</i> (2020).
+   <br> I brought in the perspective of electrode potential as an additional control variable for electrolyte degradation by leveraging design principles from electrocatalysis. 
+      <br />
+  <br />  
+
 
   <li>
     <b>Engineering Three-Dimensional (3D) Out-of-Plane Graphene Edge Sites for Highly-Selective Two-Electron Oxygen Reduction Electrocatalysis.</b> (joint lead author)
