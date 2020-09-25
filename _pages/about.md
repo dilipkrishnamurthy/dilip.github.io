@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "Dilip Krishnamurthy"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-Dilip Krishnamurthy, Ph.D. candidate, Carnegie Mellon University (CMU)
+Presidential Fellow and Ph.D. candidate, Carnegie Mellon University (CMU)
 
 I am excited to be organizing a [mini-course on scientific machine learning](https://dilipkrishnamurthy.github.io/sciML). Speakers have the opportunity to do an in-depth walk-through of work that involves the application of machine learning to physical systems such that underlying known physics relationships are obeyed by the ML approach.
 
