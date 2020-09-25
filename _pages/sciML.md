@@ -31,7 +31,15 @@ Speakers and Topics
 
 [Colab Notebook Format for Code Walk-Through](~/)
 
+Recent Contributions 
+--------------------
+
+Recent work on [Electrolyte Design for Ammonia Synthesis with Deep Learning](https://arxiv.org/pdf/2008.08078.pdf) involving a closed loop methodology between experiments and computation is in review. 
+
+
 In the past, I am glad to have also been a panelist on the topic, Machine Learning Based Approaches to Accelerate Energy Materials Discovery and Optimization, which led to an [*energy focus article*](https://pubs.acs.org/doi/full/10.1021/acsenergylett.8b02278) that summarizes recent progress, challenges, knowledge gaps, and future directions in machine learning research and applications to energy materials discovery and optimization. The core ideas from the panel discussion crystallized in my mind several aspects to carefully consider and be mindful of while applying machine learning methods to limited-data engineering challenges. Often it's useful to augment the ML models to the extent possible with the known physics of the problem for effective learning even in low-data regimes.
+
+
 
 
 <!--
