@@ -10,36 +10,30 @@ redirect_from:
 
 
 Scientific Machine Learning Mini-Course 
+---------------------------------------
+The mini-course is a short seminar series (12+ weeks starting Oct 1, 2020) with the goal of cross-polinating ideas between the various emerging methods at the intersection of physics and machine learning. 
 
-<!--
-I am a Ph.D. candidate in Mechanical Engineering at Carnegie Mellon University (CMU) advised by [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html). My research interests include computational material design and electrocatalysis in the context of next-generation energy storage and conversion devices. Prior to CMU, I graduated from IIT-Madras in 2015 with a B.Tech. degree in Mechanical Engineering and an M. Tech. degree in Automotive Engineering. A more detailed account can be found in my CV [here](/files/CV_DIlipKrishnamurthy_CMU.pdf). 
-I'm a computational materials scientist (with significant previous experimental experience), currently a Manufacturing Futures Initiative Postdoctoral Fellow working in the group of [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html) on optimization of battery materials. 
-Previously, I did my PhD in the [Photovoltaics Research Lab](http://pv.mit.edu) at MIT, where I performed first-principles simulations to understand defect physics in solar cell materials as well as high-throughput device-level simulations to use Bayesian inference along with experimental data to more quickly and accurately measure fundamental materials properties. I developed an open-source code for that project, [bayesim](https://pv-lab.github.io/bayesim/_build/html/index.html), and am always keen to find new users!
-My overarching goal in my work is to have an impact on the existential problem of climate change through improving renewable energy technology. I've also been involved in renewables-related outreach through [Project Bright](http://campuspress.yale.edu/projectbright/) at Yale as well as various organizations at MIT including my former research group, the [MIT Energy Club](https://www.mitenergyclub.org) (where I led the Solar/Grid community for two years), the Office of Sustainability, Fossil Free MIT, and the [Science Policy Initiative](mit science policy initative).
-Since my time as an undergrad in physics at Yale, I've also been devoted to the cause of increasing representation of women (and other URG's) in STEM fields. In 2012, I helped to organize the Northeast [Conference for Undergraduate Women in Physics](https://www.aps.org/programs/women/workshops/cuwip.cfm), and I returned to the conference as a graduate student speaker 2015. At MIT, I served as co-president of Women of Materials Science (WoMS).
-Please check out ways to reach me as well as my various other homes on the web in the menu (either to the left or above, depending on your screen resolution) and click the links at the top of the page to check out some of my other experience and work! You can download my CV [here](/files/CV_DilipKrishnamurthy_CMU.pdf).
+Seminar Format: Presenters can use the opportunity to showcase a paper or two with an explicit focus on the methodology and approach. Duration: 40 minutes of methodology + 20 minutes of implementation (code) walk-through + 20 minutes of questions. 
 
+Seminar Time: Thursdays 8:30 pm to 10 pm Eastern Time
 
-Office: 3404 Wean Hall
-
-Mailing Address: Dilip Krishnamurthy<br/>
-                 Department of Mechanical Engineering<br/>
-                 Carnegie Mellon University<br/>
-                 5000 Forbes Ave.<br/>
-                 Pittsburgh, PA 15213<br/>
-                 United States
--->
-
-Research Interests
+Speakers and Topics 
 ------------------
-* Computational Material Design for Next-Generation Batteries and Fuel Cells
-* Physics-aware machine learning and data-driven material discovery
-* Electrochemical Synthesis of Chemicals and Fuels
-* Electrocatalysis and Geometric Descriptors for Activity and Stability
-* Power Generation Systems Design Electric Aviation
-* Uncertainty Quantification in First Principles Computation
+* Oct 1: [Dilip Krishnamurthy](https://dilipkrishnamurthy.github.io/), [Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/pii/S0021999118307125?casa_token=Wt1UjlNtYqsAAAAA:0nr37aEEjRdnvuzKV7_WBiRg_XTLXjx1ekICV4XmTgrM3QGQ5B5KdLfqXjUA_4qoupxwtjCFqws)
+* Oct 8: [Xiaowei Jia](http://www.pitt.edu/~xiaowei/), [Physics-Guided Machine Learning for Scientific Discovery](https://arxiv.org/abs/2001.11086)
+* Oct 15: Alexander Bills, [Universal Ordinary Differntial Equations for Battery Performance and Reliability Predictions](https://arxiv.org/abs/2008.01527)
+* Oct 22: [Bharath Ramsundar](https://rbharath.github.io/about/), Physics-Constrained Machine Learning
+* Oct 29: [Edwin Khoo](https://www.linkedin.com/in/edwinksl/), Physics-Aware Machine Learning for Battery Performance Predictions
+* Nov 5: [Vedhus Hoskere](https://sail.cive.uh.edu/people/), Physics-Aware Machine Learning for Battery Performance Predictions
+* Nov 12: [Linfeng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=jk7qwmcAAAAJ&view_op=list_works&sortby=pubdate), [Integrating Machine Learning with Physics-Based Modeling](https://arxiv.org/abs/2006.02619)
+* Nov 19: Varun Shankar, Physics-Constrained Machine Learning for Fluid Flow Fields 
+* Nov 26: [Rachel Kurchin](https://rkurchin.github.io/), Physics-Guided Convolutional Neural Networks Capturing 
+* Dec 3: Keith Phuthi, Machine Learning Potentials and Encoding Invariances Within ML Methods
 
-Follow my Ph.D. Advisor, [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html), and my group's [work](https://scholar.google.com/citations?user=4g7P1w4AAAAJ&hl=en). A more detailed account of my work can be found in my [CV](/files/CV_DilipKrishnamurthy_Apr.pdf).
+[Overleaf Template for Methodology Walk-Through](~/)
+[Colab Notebook Format for Code Walk-Through](~/)
+
+
 <!--
 About this site
 ---------------
