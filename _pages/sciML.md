@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: 
-excerpt: "SciML"
+layout: archive
+title: "Scienfitic-ML Course"
+permalink: /sciML/
 author_profile: true
-redirect_from:
-  - /sciML/
-  - /sciML.html
 ---
 
 
