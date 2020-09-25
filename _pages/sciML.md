@@ -11,7 +11,7 @@ redirect_from:
 
 Scientific Machine Learning Mini-Course 
 ---------------------------------------
-The mini-course is a short seminar series (12+ weeks starting Oct 1, 2020) with the goal of cross-polinating ideas between the various emerging methods at the intersection of physics and machine learning. 
+The mini-course is a short seminar series (12+ weeks starting Oct 1, 2020) with the goal of cross-pollinating ideas between the various emerging methods at the intersection of physics and machine learning. 
 
 Seminar Format: Presenters can use the opportunity to showcase a paper or two with an explicit focus on the methodology and approach. Duration: 40 minutes of methodology + 20 minutes of implementation (code) walk-through + 20 minutes of questions. 
 
@@ -31,6 +31,7 @@ Speakers and Topics
 * Dec 3: Keith Phuthi, Machine Learning Potentials and Encoding Invariances Within ML Methods
 
 [Overleaf Template for Methodology Walk-Through](~/)
+
 [Colab Notebook Format for Code Walk-Through](~/)
 
 
