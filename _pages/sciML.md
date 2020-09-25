@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Scienfitic-ML Course"
+title: "Scienfitic Machine Learning"
 permalink: /sciML/
 author_profile: true
 ---
