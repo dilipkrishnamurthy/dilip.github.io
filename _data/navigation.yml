@@ -3,7 +3,7 @@ main:
  # - title: "Blog"
  #   url: /year-archive/
 
-  - title: "SciML Mini-Course"
+  - title: "Scientific ML Course"
     url: /sciML/
     
   - title: "Publications"
