@@ -14,27 +14,29 @@ Seminar Format: Presenters can use the opportunity to showcase a paper or two wi
 
 Seminar Time: Thursdays 8:30 pm to 10 pm Eastern Time
 
-Speakers and Topics 
+Speakers and Topics (Still Evolving) 
 ------------------
-* Oct 1: [Dilip Krishnamurthy](https://dilipkrishnamurthy.github.io/), Carnegie Mellon University
+* Oct 1: [Dilip Krishnamurthy](https://dilipkrishnamurthy.github.io/), Carnegie Mellon University\
 [Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/pii/S0021999118307125?casa_token=Wt1UjlNtYqsAAAAA:0nr37aEEjRdnvuzKV7_WBiRg_XTLXjx1ekICV4XmTgrM3QGQ5B5KdLfqXjUA_4qoupxwtjCFqws)
-* Oct 8: [Xiaowei Jia](http://www.pitt.edu/~xiaowei/), University of Pittsburgh
+* Oct 8: [Xiaowei Jia](http://www.pitt.edu/~xiaowei/), University of Pittsburgh\
 [Physics-Guided Machine Learning for Scientific Discovery](https://arxiv.org/abs/2001.11086)
-* Oct 15: Alexander Bills, Carnegie Mellon University
+* Oct 15: Alexander Bills, Carnegie Mellon University\
 [Universal Ordinary Differntial Equations for Battery Performance and Reliability Predictions](https://arxiv.org/abs/2008.01527)
-* Oct 22: [Bharath Ramsundar](https://rbharath.github.io/about/), Creator of [DeepChem](https://deepchem.io/), Stanford CS PhD 
+* Oct 22: [Bharath Ramsundar](https://rbharath.github.io/about/), Creator of [DeepChem](https://deepchem.io/), Stanford CS PhD\
 Physics-Constrained Machine Learning
-* Oct 29: [Edwin Khoo](https://www.linkedin.com/in/edwinksl/), Institute for Infocomm Research
+* Oct 29: [Edwin Khoo](https://www.linkedin.com/in/edwinksl/), Institute for Infocomm Research\
 Physics-Aware Machine Learning for Battery Performance Predictions
-* Nov 5: [Alok Warey](https://www.linkedin.com/in/alok-warey-88ab1b4/), General Motors
+* Nov 5: [Alok Warey](https://www.linkedin.com/in/alok-warey-88ab1b4/), General Motors\
 Physics-Aware Machine Learning for Battery Performance Predictions
-* Nov 12: [Linfeng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=jk7qwmcAAAAJ&view_op=list_works&sortby=pubdate), Princeton PhD
+* Nov 12: [Linfeng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=jk7qwmcAAAAJ&view_op=list_works&sortby=pubdate), Princeton PhD\
 [Integrating Machine Learning with Physics-Based Modeling](https://arxiv.org/abs/2006.02619)
-* Nov 19: Varun Shankar, Carnegie Mellon University
+* Nov 19: [Dhairya Gandhi](https://juliacomputing.com/about-us), Julia Computing\
+[Scientific Machine Learning Methods (DiffEqFlux.jl)](https://github.com/SciML/DiffEqFlux.jl)
+* Nov 26: Varun Shankar, Carnegie Mellon University\
 Physics-Constrained Machine Learning for Fluid Flow Fields 
-* Nov 26: [Rachel Kurchin](https://rkurchin.github.io/), Carnegie Mellon University
+* Dec 3: [Rachel Kurchin](https://rkurchin.github.io/), Carnegie Mellon University\
 Physics-Guided Convolutional Neural Networks 
-* Dec 3: Keith Phuthi, Carnegie Mellon University
+* Dec 10: Keith Phuthi, Carnegie Mellon University\
 Machine Learning Potentials and Encoding Invariances Within ML Methods
 
 
