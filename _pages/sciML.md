@@ -46,7 +46,7 @@ Machine Learning Potentials and Encoding Invariances Within ML Methods
 
 Funding
 --------------------
-The seminar series of funded by the [ARPA-E DIFFERENTIATE](https://arpa-e.energy.gov/technologies/programs/differentiate) program and the Carnegie Mellon Presidential Fellowship.
+The seminar series is funded by the [ARPA-E DIFFERENTIATE](https://arpa-e.energy.gov/technologies/programs/differentiate) program and the Carnegie Mellon Presidential Fellowship.
 
 Conception
 --------------------
