@@ -14,7 +14,7 @@ Seminar Format: Presenters can use the opportunity to showcase a paper or two wi
 
 Seminar Time: Thursdays 8:30 pm to 10 pm Eastern Time
 
-Speakers and Topics (Still Evolving) 
+Tentative Speakers and Topics
 ------------------
 * Oct 1: [Dilip Krishnamurthy](https://dilipkrishnamurthy.github.io/), Carnegie Mellon University\
 [Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/pii/S0021999118307125?casa_token=Wt1UjlNtYqsAAAAA:0nr37aEEjRdnvuzKV7_WBiRg_XTLXjx1ekICV4XmTgrM3QGQ5B5KdLfqXjUA_4qoupxwtjCFqws)
