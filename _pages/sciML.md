@@ -22,7 +22,7 @@ Speakers and Topics (Still Evolving)
 [Physics-Guided Machine Learning for Scientific Discovery](https://arxiv.org/abs/2001.11086)
 * Oct 15: Alexander Bills, Carnegie Mellon University\
 [Universal Ordinary Differntial Equations for Battery Performance and Reliability Predictions](https://arxiv.org/abs/2008.01527)
-* Oct 22: [Bharath Ramsundar](https://rbharath.github.io/about/), Creator of [DeepChem](https://deepchem.io/), Stanford CS PhD\
+* Oct 22: [Bharath Ramsundar](https://rbharath.github.io/about/), Creator of [DeepChem](https://deepchem.io/) & Stanford CS PhD\
 Physics-Constrained Machine Learning
 * Oct 29: [Edwin Khoo](https://www.linkedin.com/in/edwinksl/), Institute for Infocomm Research\
 Physics-Aware Machine Learning for Battery Performance Predictions
