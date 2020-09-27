@@ -16,16 +16,27 @@ Seminar Time: Thursdays 8:30 pm to 10 pm Eastern Time
 
 Speakers and Topics 
 ------------------
-* Oct 1: [Dilip Krishnamurthy](https://dilipkrishnamurthy.github.io/), [Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/pii/S0021999118307125?casa_token=Wt1UjlNtYqsAAAAA:0nr37aEEjRdnvuzKV7_WBiRg_XTLXjx1ekICV4XmTgrM3QGQ5B5KdLfqXjUA_4qoupxwtjCFqws)
-* Oct 8: [Xiaowei Jia](http://www.pitt.edu/~xiaowei/), [Physics-Guided Machine Learning for Scientific Discovery](https://arxiv.org/abs/2001.11086)
-* Oct 15: Alexander Bills, [Universal Ordinary Differntial Equations for Battery Performance and Reliability Predictions](https://arxiv.org/abs/2008.01527)
-* Oct 22: [Bharath Ramsundar](https://rbharath.github.io/about/), Physics-Constrained Machine Learning
-* Oct 29: [Edwin Khoo](https://www.linkedin.com/in/edwinksl/), Physics-Aware Machine Learning for Battery Performance Predictions
-* Nov 5: [Linfeng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=jk7qwmcAAAAJ&view_op=list_works&sortby=pubdate), [Integrating Machine Learning with Physics-Based Modeling](https://arxiv.org/abs/2006.02619)
-* Nov 12: Varun Shankar, Physics-Constrained Machine Learning for Fluid Flow Fields 
-* Nov 19: [Rachel Kurchin](https://rkurchin.github.io/), Physics-Guided Convolutional Neural Networks 
-* Nov 26: Keith Phuthi, Machine Learning Potentials and Encoding Invariances Within ML Methods
-* Dec 3: [Vedhus Hoskere](https://sail.cive.uh.edu/people/), Physics-Aware Machine Learning for Battery Performance Predictions
+* Oct 1: [Dilip Krishnamurthy](https://dilipkrishnamurthy.github.io/), Carnegie Mellon University
+[Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/pii/S0021999118307125?casa_token=Wt1UjlNtYqsAAAAA:0nr37aEEjRdnvuzKV7_WBiRg_XTLXjx1ekICV4XmTgrM3QGQ5B5KdLfqXjUA_4qoupxwtjCFqws)
+* Oct 8: [Xiaowei Jia](http://www.pitt.edu/~xiaowei/), University of Pittsburgh
+[Physics-Guided Machine Learning for Scientific Discovery](https://arxiv.org/abs/2001.11086)
+* Oct 15: Alexander Bills, Carnegie Mellon University
+[Universal Ordinary Differntial Equations for Battery Performance and Reliability Predictions](https://arxiv.org/abs/2008.01527)
+* Oct 22: [Bharath Ramsundar](https://rbharath.github.io/about/), Creator of [DeepChem](https://deepchem.io/), Stanford CS PhD 
+Physics-Constrained Machine Learning
+* Oct 29: [Edwin Khoo](https://www.linkedin.com/in/edwinksl/), Institute for Infocomm Research
+Physics-Aware Machine Learning for Battery Performance Predictions
+* Nov 5: [Alok Warey](https://www.linkedin.com/in/alok-warey-88ab1b4/), General Motors
+Physics-Aware Machine Learning for Battery Performance Predictions
+* Nov 12: [Linfeng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=jk7qwmcAAAAJ&view_op=list_works&sortby=pubdate), Princeton PhD
+[Integrating Machine Learning with Physics-Based Modeling](https://arxiv.org/abs/2006.02619)
+* Nov 19: Varun Shankar, Carnegie Mellon University
+Physics-Constrained Machine Learning for Fluid Flow Fields 
+* Nov 26: [Rachel Kurchin](https://rkurchin.github.io/), Carnegie Mellon University
+Physics-Guided Convolutional Neural Networks 
+* Dec 3: Keith Phuthi, Carnegie Mellon University
+Machine Learning Potentials and Encoding Invariances Within ML Methods
+
 
 [Overleaf Template for Methodology Walk-Through](~/)
 
