@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Scienfitic Machine Learning"
+title: "Scientific Machine Learning"
 permalink: /sciML/
 author_profile: true
 ---
