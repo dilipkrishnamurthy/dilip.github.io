@@ -27,11 +27,11 @@ Physics-Constrained Machine Learning
 * Oct 29: [Edwin Khoo](https://www.linkedin.com/in/edwinksl/), Institute for Infocomm Research\
 Physics-Aware Machine Learning for Battery Performance Predictions
 * Nov 5: [Alok Warey](https://www.linkedin.com/in/alok-warey-88ab1b4/), General Motors\
-Physics-Aware Machine Learning for Battery Performance Predictions
+Deep Learning for Vehicle Systems
 * Nov 12: [Linfeng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=jk7qwmcAAAAJ&view_op=list_works&sortby=pubdate), Princeton PhD\
 [Integrating Machine Learning with Physics-Based Modeling](https://arxiv.org/abs/2006.02619)
 * Nov 19: [Dhairya Gandhi](https://juliacomputing.com/about-us), Julia Computing\
-[Scientific Machine Learning Methods (DiffEqFlux.jl)](https://github.com/SciML/DiffEqFlux.jl)
+[Scientific Machine Learning Methods and Tools (DiffEqFlux.jl)](https://github.com/SciML/DiffEqFlux.jl)
 * Nov 26: Varun Shankar, Carnegie Mellon University\
 Physics-Constrained Machine Learning for Fluid Flow Fields 
 * Dec 3: [Rachel Kurchin](https://rkurchin.github.io/), Carnegie Mellon University\
