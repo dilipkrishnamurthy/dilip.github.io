@@ -31,6 +31,10 @@ Speakers and Topics
 
 [Colab Notebook Format for Code Walk-Through](~/)
 
+Funding
+--------------------
+The seminar series of funded by the [ARPA-E DIFFERENTIATE](https://arpa-e.energy.gov/technologies/programs/differentiate) program and the Carnegie Mellon Presidential Fellowship.
+
 Conception
 --------------------
 In the past, I am glad to have been a panelist on the topic, Machine Learning Based Approaches to Accelerate Energy Materials Discovery and Optimization, which led to an [*energy focus article*](https://pubs.acs.org/doi/full/10.1021/acsenergylett.8b02278) that summarizes recent progress, challenges, knowledge gaps, and future directions in machine learning research and applications to energy materials discovery and optimization. The core ideas from the panel discussion crystallized in my mind several aspects to carefully consider and be mindful of while applying machine learning methods to limited-data engineering challenges. Often it's useful to synergistally stack the ML models to the extent possible with the known physics of the problem for effective learning even in low-data regimes.
