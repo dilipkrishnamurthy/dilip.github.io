@@ -53,7 +53,7 @@ Conception
 In the past, I am glad to have been a panelist on the topic, Machine Learning Based Approaches to Accelerate Energy Materials Discovery and Optimization, which led to an [*energy focus article*](https://pubs.acs.org/doi/full/10.1021/acsenergylett.8b02278) that summarizes recent progress, challenges, knowledge gaps, and future directions in machine learning research and applications to energy materials discovery and optimization. The core ideas from the panel discussion crystallized in my mind several aspects to carefully consider and be mindful of while applying machine learning methods to limited-data engineering challenges. Often it's useful to synergistally stack the ML models to the extent possible with the known physics of the problem for effective learning even in low-data regimes.
 
 
-In a similar vein, recent work on [Deep Learning With Physics-Based Descriptors for Electrolyte Design to Enable Ammonia Synthesis](https://arxiv.org/pdf/2008.08078.pdf) could be of interest to you. The work involves a closed-loop design methodology between computation and experiments [Manthiram group, MIT](https://manthiramlab.com/). 
+In a similar vein, my recent work on [Deep Learning With Physics-Based Descriptors for Electrolyte Design to Enable Ammonia Synthesis](https://arxiv.org/pdf/2008.08078.pdf) could be of interest to you. The work involves a closed-loop design methodology between computation and experiments [Manthiram group, MIT](https://manthiramlab.com/). 
 
 
 <!--
