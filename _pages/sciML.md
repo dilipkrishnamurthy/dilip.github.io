@@ -24,7 +24,7 @@ Speakers and Topics
 * Nov 5: [Linfeng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=jk7qwmcAAAAJ&view_op=list_works&sortby=pubdate), [Integrating Machine Learning with Physics-Based Modeling](https://arxiv.org/abs/2006.02619)
 * Nov 12: Varun Shankar, Physics-Constrained Machine Learning for Fluid Flow Fields 
 * Nov 19: [Rachel Kurchin](https://rkurchin.github.io/), Physics-Guided Convolutional Neural Networks 
-* Nov 26: [Dhairya Gandhi], Machine Learning Potentials and Encoding Invariances Within ML Methods
+* Nov 26: Keith Phuthi, Machine Learning Potentials and Encoding Invariances Within ML Methods
 * Dec 3: [Vedhus Hoskere](https://sail.cive.uh.edu/people/), Physics-Aware Machine Learning for Battery Performance Predictions
 
 [Overleaf Template for Methodology Walk-Through](~/)
