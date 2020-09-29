@@ -13,7 +13,7 @@ redirect_from:
 
 Presidential Fellow and Ph.D. candidate, Carnegie Mellon University (CMU)
 
-I am excited to be organizing a [webinar course on scientific machine learning](https://dilipkrishnamurthy.github.io/sciML). Speakers have the opportunity to do an in-depth walk-through of work that involves the application of machine learning to physical systems such that underlying known physics relationships are obeyed by the ML approach.
+I am excited to be organizing a [webinar course on scientific machine learning](https://dilipkrishnamurthy.github.io/sciML). 
 
 <!--
 I am a Ph.D. candidate in Mechanical Engineering at Carnegie Mellon University (CMU) advised by [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html). My research interests include computational material design and electrocatalysis in the context of next-generation energy storage and conversion devices. Prior to CMU, I graduated from IIT-Madras in 2015 with a B.Tech. degree in Mechanical Engineering and an M. Tech. degree in Automotive Engineering. A more detailed account can be found in my CV [here](/files/CV_DIlipKrishnamurthy_CMU.pdf). 
