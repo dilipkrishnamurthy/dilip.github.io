@@ -42,7 +42,7 @@ Research Interests
 * Electrochemical Synthesis of Chemicals and Fuels
 * Electrocatalysis 
 
-Follow my Ph.D. Advisor, [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html), and my group's [work](https://scholar.google.com/citations?user=4g7P1w4AAAAJ&hl=en). A more detailed account of my work can be found in my [CV](/files/CV_DilipKrishnamurthy_Apr.pdf).
+Follow my Ph.D. Advisor, [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html), and my group's [work](https://scholar.google.com/citations?user=4g7P1w4AAAAJ&hl=en). A more detailed account of my work can be found in my [CV](/files/CV_DilipKrishnamurthy_Sept.pdf).
 <!--
 About this site
 ---------------
