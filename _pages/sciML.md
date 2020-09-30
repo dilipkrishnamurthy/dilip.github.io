@@ -14,6 +14,8 @@ Seminar Format: Presenters can use the opportunity to showcase a paper or two wi
 
 Seminar Time: Thursdays 8:30 pm to 10 pm Eastern Time
 
+[Webpage for most recent updates](https://www.cmu.edu/aced/sciML.html)
+
 Tentative Speakers and Topics
 ------------------
 * Oct 1: [Dilip Krishnamurthy](https://dilipkrishnamurthy.github.io/), Carnegie Mellon University\
