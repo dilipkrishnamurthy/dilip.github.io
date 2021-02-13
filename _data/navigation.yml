@@ -29,6 +29,9 @@ main:
 
   - title: "Awards"
     url: /awards/
+    
+  - title: "More"
+    url: /more/
 
   #- title: "Press"
   #  url: /press/
