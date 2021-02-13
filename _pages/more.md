@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "More"
-excerpt: "More"
+permalink: /more/
 author_profile: true
-redirect_from:
-  - /more/
-  - /more.html
 ---
 
 <object data="https://dilipkrishnamurthy.github.io/files/PersonalWebpage_More.pdf" type="application/pdf" width="700px" height="700px">
